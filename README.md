@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🏕️ Pemetaan Potensi Desa Wisata di Madura dengan Metode SOM
 
 Repository ini berisi hasil penelitian mengenai **pemetaan potensi desa wisata di Madura** menggunakan metode **Self Organizing Map (SOM)** dan **Optimasi Cluster Elbow**. Tujuan dari penelitian ini adalah untuk mengelompokkan desa wisata berdasarkan berbagai indikator seperti aksesibilitas, akomodasi, fasilitas, dan daya tarik wisata.
