@@ -1,4 +1,4 @@
-Berikut adalah **README.md** yang bisa kamu gunakan untuk repository GitHub penelitian **Pemetaan Potensi Desa Wisata di Madura dengan Metode SOM**. Saya sudah menyertakan penjelasan penelitian, dataset, dan cara menjalankan kode.  
+
 
 ```markdown
 # 🏕️ Pemetaan Potensi Desa Wisata di Madura dengan Metode SOM
